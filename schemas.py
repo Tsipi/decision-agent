@@ -1,5 +1,5 @@
 from pydantic import BaseModel
-from typing import List, Literal
+from typing import Literal
 
 class CustomerSchema(BaseModel):
     id: str
@@ -18,4 +18,4 @@ class OrderSchema(BaseModel):
 class AgentDecision(BaseModel):
     decision: Literal["APPROVED", "REJECT", "ESCALATE"]
     reason: str
-    actions: List[str]
+    
