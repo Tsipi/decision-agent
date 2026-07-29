@@ -1,4 +1,4 @@
-## MVP task - Customer-Service Refund Policy Agent
+## MVP - Customer-Service Refund Policy Agent
 
 A tool-using agent that turns **free-text customer requests** into **structured, auditable decisions** — `APPROVED`, `REJECT`, or `ESCALATE` — each with a plain-language reasoning trace.
 
