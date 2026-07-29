@@ -77,7 +77,7 @@ pip install pydantic
 python main.py
 ```
 
-Output is color-coded in the terminal: 🟢 `APPROVED`, 🟡 `ESCALATE`, 🔴 `REJECT`.
+Output is color-coded in the terminal: green `APPROVED`, yellow `ESCALATE`, red `REJECT`.
 
 
 ---
