@@ -1,0 +1,11 @@
+[
+    {"id": "R1", "text": "Hi, I am CUST_001. I want a refund for my order ORD_101 of 45$."},
+    {"id": "R2", "text": "I am demanding a refund for my transaction ORD_103 ($600). CUST_002 here."},
+    {"id": "R3", "text": "Please refund my transaction ORD_102 for $75. My account is CUST_001."},
+    {"id": "R4", "text": "Can I get a refund? I am CUST_003 and order is ORD_104."},
+    {"id": "R5", "text": "Hey, I need a refund for something but I won't tell you the price. Account CUST_001."},
+    {"id": "R6", "text": "I have an account issue with fraud on CUST_999 for order ORD_888."},
+    {"id": "R7", "text": "Refund $50 for order ORD_888. I am CUST_999."},
+    {"id": "R8", "text": "Refund $50 for order ORD_777. I am CUST_001."},
+    {"id": "R9", "text": "Refund $30 for order ORD_101. I am CUST_001."}
+]
