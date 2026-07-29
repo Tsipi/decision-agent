@@ -1,0 +1,23 @@
+[
+  {
+    "id": "CUST_001",
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "tier": "Gold",
+    "status": "Active"
+  },
+  {
+    "id": "CUST_002",
+    "name": "Michael Jackson",
+    "email": "michael.jackson@email.com",
+    "tier": "Premium",
+    "status": "Active"
+  },
+  {
+    "id": "CUST_003",
+    "name": "Bon Jovi",
+    "email": "bon.jovi@email.com",
+    "tier": "Standard",
+    "status": "Inactive"
+  }
+]

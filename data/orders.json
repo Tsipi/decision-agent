@@ -1,0 +1,30 @@
+[
+  {
+    "id": "ORD_101",
+    "customer_id": "CUST_001",
+    "amount": 450.00,
+    "date": "2026-05-20",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD_102",
+    "customer_id": "CUST_001",
+    "amount": 1200.50,
+    "date": "2026-05-15",
+    "status": "Pending"
+  },
+  {
+    "id": "ORD_103",
+    "customer_id": "CUST_002",
+    "amount": 3500.00,
+    "date": "2026-05-25",
+    "status": "Completed"
+  },
+  {
+    "id": "ORD_104",
+    "customer_id": "CUST_003",
+    "amount": 99.90,
+    "date": "2026-01-10",
+    "status": "Cancelled"
+  }
+]
